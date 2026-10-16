@@ -1,1 +1,189 @@
-[{"action":"Optimize for watch time and DM shares. Make content people want to send to friends, not just like. Track sends per reach in Insights, not just views.","date":"2026-09-24","impact":"Instagram now ranks primarily on watch time, likes per reach, and sends per reach. Follower counts and raw views matter less. DM shares now outweigh likes for non-follower distribution.","platform":"instagram","severity":"high","title":"Mosseri confirms 3 ranking metrics that matter"},{"action":"Make your niche obvious through captions, visuals, and audio. If people can't tell what your topic is in 2 seconds, the algorithm can't either.","date":"2026-06-10","impact":"Topic preferences set in one surface now apply everywhere. Users who opt out of your topic become harder to reach regardless of engagement strength.","platform":"instagram","severity":"high","title":"'Your Algorithm' topic controls unified across Feed, Reels, Explore"},{"action":"Stop reposting. Every format needs meaningful original creation now, not just Reels. Check Account Status to see if you're flagged.","date":"2026-04-30","impact":"Accounts posting mostly unoriginal content are excluded from Explore and recommendations. Simple edits like borders or watermarks don't count as original. 75% of US recommendations now come from original posts.","platform":"instagram","severity":"high","title":"Original content protections extended to photos and carousels"},{"action":"Create original audio or voiceovers. Strip watermarks before cross-posting. Trending sounds still work for established accounts but hurt small ones.","date":"2026-04-28","impact":"Reels using recycled or watermarked content get down-ranked. Original audio gets a boost. TikTok watermarks continue to suppress reach.","platform":"instagram","severity":"medium","title":"Reels favor original audio over trending sounds"},{"action":"Add relevant keywords to every video. Treat TikTok SEO like YouTube SEO now. Cover titles help click-through from search.","date":"2026-06-24","impact":"Creators can now manually attach custom keywords to videos to improve search visibility, plus a floating Cover Title option. TikTok is doubling down on search as a discovery surface.","platform":"tiktok","severity":"medium","title":"Custom search keywords for videos"},{"action":"Test longer storytelling formats. But completion rate still rules, so only go long if you can hold attention.","date":"2026-06-15","impact":"Maximum video length raised from 3 to 10 minutes globally, making TikTok competitive with YouTube for longer content.","platform":"tiktok","severity":"medium","title":"Video duration extended to 10 minutes for all creators"},{"action":"Post native, human, niche video. Keep clips tight while completion bar is high. Watch analytics weekly, don't assume last year's playbook works. Avoid AI-generated video as your main format.","date":"2026-01-22","impact":"TikTok US sold to Oracle/Silver Lake consortium for ~$14B. The For You algorithm is being retrained on US-governed data. Reach instability during transition. Completion rate bar reportedly climbing to ~70% watched. AI-generated video now demoted.","platform":"tiktok","severity":"high","title":"US operations sold, algorithm being retrained"},{"action":"If you sell anything, make native shopping content. Even affiliate links in Shop-tagged videos get boosted.","date":"2026-01-01","impact":"Native shopping videos get a distribution edge as the platform blends entertainment with commerce.","platform":"tiktok","severity":"medium","title":"TikTok Shop content gets algorithmic priority"},{"action":"Test 60-90 second Shorts for more depth. But retention math changes, don't pad. 30-45 seconds is still the sweet spot for most niches.","date":"2026-05-20","impact":"Shorts cap raised from 60 seconds to 3 minutes. Shorts under 60 seconds still qualify for the Shorts feed.","platform":"youtube","severity":"medium","title":"Shorts max duration extended to 3 minutes"},{"action":"Pick a niche and go deep. Make thumbnails/titles that the content actually delivers on. Use Shorts to funnel into long-form where CPMs are 10-20x higher.","date":"2026-03-01","impact":"Browse feed now serves micro-niche clusters. Specialists rewarded over generalists. On Shorts, completion and swipe-away speed decide almost everything. CTR and watch time now judged together, clickbait titles get throttled.","platform":"youtube","severity":"high","title":"Shorts and long-form algorithms fully separated"},{"action":"Use Shorts for discovery, long-form for revenue. Bridge Shorts viewers into full videos.","date":"2026-01-01","impact":"YouTube keeps ~55% of Shorts ad revenue, splits remaining 45% among creators by share of monetized views. Long-form still pays significantly better.","platform":"youtube","severity":"medium","title":"Shorts monetization via Creator Pool"},{"action":"Post when your audience is most active since recency still feeds the prediction. Engagement velocity in the first hour matters more than ever.","date":"2025-11-01","impact":"The Following feed is now sorted by Grok AI predicted engagement instead of chronological (toggle still available). Grok replaced the legacy recommendation system.","platform":"x","severity":"medium","title":"Following feed sorted by Grok-predicted engagement"},{"action":"Long-form video on X is now viable. Repurpose podcasts and streams.","date":"2026-01-30","impact":"Premium subscribers can now upload videos up to 4 hours long.","platform":"x","severity":"low","title":"Video upload limit raised to 4 hours for Premium"},{"action":"Cross-post your Reels to Facebook. It's free reach most people are ignoring.","date":"2026-01-01","impact":"Facebook Reels distribution increased significantly but most creators aren't posting there.","platform":"facebook","severity":"medium","title":"Reels reach up 40%, still underused"},{"action":"Post native video on LinkedIn. Under 10 minutes, 16:9, MP4. Huge opportunity for B2B creators.","date":"2026-03-15","impact":"LinkedIn confirmed native video posts receive significantly more distribution than text or link posts.","platform":"linkedin","severity":"high","title":"Native video gets 3x reach of text posts"}]
+[
+  {
+    "action": "Optimize for watch time and DM shares. Make content people want to send to friends, not just like. Track sends per reach in Insights, not just views.",
+    "date": "2026-09-24",
+    "impact": "Instagram now ranks primarily on watch time, likes per reach, and sends per reach. Follower counts and raw views matter less. DM shares now outweigh likes for non-follower distribution.",
+    "platform": "instagram",
+    "severity": "high",
+    "title": "Mosseri confirms 3 ranking metrics that matter"
+  },
+  {
+    "action": "Make your niche obvious through captions, visuals, and audio. If people can't tell what your topic is in 2 seconds, the algorithm can't either.",
+    "date": "2026-06-10",
+    "impact": "Topic preferences set in one surface now apply everywhere. Users who opt out of your topic become harder to reach regardless of engagement strength.",
+    "platform": "instagram",
+    "severity": "high",
+    "title": "'Your Algorithm' topic controls unified across Feed, Reels, Explore"
+  },
+  {
+    "action": "Stop reposting. Every format needs meaningful original creation now, not just Reels. Check Account Status to see if you're flagged.",
+    "date": "2026-04-30",
+    "impact": "Accounts posting mostly unoriginal content are excluded from Explore and recommendations. Simple edits like borders or watermarks don't count as original. 75% of US recommendations now come from original posts.",
+    "platform": "instagram",
+    "severity": "high",
+    "title": "Original content protections extended to photos and carousels"
+  },
+  {
+    "action": "Create original audio or voiceovers. Strip watermarks before cross-posting. Trending sounds still work for established accounts but hurt small ones.",
+    "date": "2026-04-28",
+    "impact": "Reels using recycled or watermarked content get down-ranked. Original audio gets a boost. TikTok watermarks continue to suppress reach.",
+    "platform": "instagram",
+    "severity": "medium",
+    "title": "Reels favor original audio over trending sounds"
+  },
+  {
+    "action": "Add relevant keywords to every video. Treat TikTok SEO like YouTube SEO now. Cover titles help click-through from search.",
+    "date": "2026-06-24",
+    "impact": "Creators can now manually attach custom keywords to videos to improve search visibility, plus a floating Cover Title option. TikTok is doubling down on search as a discovery surface.",
+    "platform": "tiktok",
+    "severity": "medium",
+    "title": "Custom search keywords for videos"
+  },
+  {
+    "action": "Test longer storytelling formats. But completion rate still rules, so only go long if you can hold attention.",
+    "date": "2026-06-15",
+    "impact": "Maximum video length raised from 3 to 10 minutes globally, making TikTok competitive with YouTube for longer content.",
+    "platform": "tiktok",
+    "severity": "medium",
+    "title": "Video duration extended to 10 minutes for all creators"
+  },
+  {
+    "action": "Post native, human, niche video. Keep clips tight while completion bar is high. Watch analytics weekly, don't assume last year's playbook works. Avoid AI-generated video as your main format.",
+    "date": "2026-01-22",
+    "impact": "TikTok US sold to Oracle/Silver Lake consortium for ~$14B. The For You algorithm is being retrained on US-governed data. Reach instability during transition. Completion rate bar reportedly climbing to ~70% watched. AI-generated video now demoted.",
+    "platform": "tiktok",
+    "severity": "high",
+    "title": "US operations sold, algorithm being retrained"
+  },
+  {
+    "action": "If you sell anything, make native shopping content. Even affiliate links in Shop-tagged videos get boosted.",
+    "date": "2026-01-01",
+    "impact": "Native shopping videos get a distribution edge as the platform blends entertainment with commerce.",
+    "platform": "tiktok",
+    "severity": "medium",
+    "title": "TikTok Shop content gets algorithmic priority"
+  },
+  {
+    "action": "Test 60-90 second Shorts for more depth. But retention math changes, don't pad. 30-45 seconds is still the sweet spot for most niches.",
+    "date": "2026-05-20",
+    "impact": "Shorts cap raised from 60 seconds to 3 minutes. Shorts under 60 seconds still qualify for the Shorts feed.",
+    "platform": "youtube",
+    "severity": "medium",
+    "title": "Shorts max duration extended to 3 minutes"
+  },
+  {
+    "action": "Pick a niche and go deep. Make thumbnails/titles that the content actually delivers on. Use Shorts to funnel into long-form where CPMs are 10-20x higher.",
+    "date": "2026-03-01",
+    "impact": "Browse feed now serves micro-niche clusters. Specialists rewarded over generalists. On Shorts, completion and swipe-away speed decide almost everything. CTR and watch time now judged together, clickbait titles get throttled.",
+    "platform": "youtube",
+    "severity": "high",
+    "title": "Shorts and long-form algorithms fully separated"
+  },
+  {
+    "action": "Use Shorts for discovery, long-form for revenue. Bridge Shorts viewers into full videos.",
+    "date": "2026-01-01",
+    "impact": "YouTube keeps ~55% of Shorts ad revenue, splits remaining 45% among creators by share of monetized views. Long-form still pays significantly better.",
+    "platform": "youtube",
+    "severity": "medium",
+    "title": "Shorts monetization via Creator Pool"
+  },
+  {
+    "action": "Post when your audience is most active since recency still feeds the prediction. Engagement velocity in the first hour matters more than ever.",
+    "date": "2025-11-01",
+    "impact": "The Following feed is now sorted by Grok AI predicted engagement instead of chronological (toggle still available). Grok replaced the legacy recommendation system.",
+    "platform": "x",
+    "severity": "medium",
+    "title": "Following feed sorted by Grok-predicted engagement"
+  },
+  {
+    "action": "Long-form video on X is now viable. Repurpose podcasts and streams.",
+    "date": "2026-01-30",
+    "impact": "Premium subscribers can now upload videos up to 4 hours long.",
+    "platform": "x",
+    "severity": "low",
+    "title": "Video upload limit raised to 4 hours for Premium"
+  },
+  {
+    "action": "Cross-post your Reels to Facebook. It's free reach most people are ignoring.",
+    "date": "2026-01-01",
+    "impact": "Facebook Reels distribution increased significantly but most creators aren't posting there.",
+    "platform": "facebook",
+    "severity": "medium",
+    "title": "Reels reach up 40%, still underused"
+  },
+  {
+    "action": "Post native video on LinkedIn. Under 10 minutes, 16:9, MP4. Huge opportunity for B2B creators.",
+    "date": "2026-03-15",
+    "impact": "LinkedIn confirmed native video posts receive significantly more distribution than text or link posts.",
+    "platform": "linkedin",
+    "severity": "high",
+    "title": "Native video gets 3x reach of text posts"
+  },
+  {
+    "action": "Post only original Shorts, or add real commentary, storytelling, or unique edits to any reused clips. Voiceover descriptions, borders, and template edits no longer count as original.",
+    "date": "2026-10-01",
+    "impact": "YouTube updated Shorts recommendations to further prioritize original content and reduce reach for re-uploaded clips without meaningful additions. Aggregator and clipping channels face reduced distribution on top of existing monetization ineligibility.",
+    "platform": "youtube",
+    "severity": "high",
+    "title": "Shorts algorithm now prioritizes original content"
+  },
+  {
+    "action": "Turn key follows into mutuals before you post, since mutuals now see and reply to you first. Reply early on your own posts to seed familiar faces at the top.",
+    "date": "2026-07-13",
+    "impact": "X added mutual-follow data to its ranking model. Posts and replies from mutual followers get boosted visibility, and mutuals' replies now surface first in reply threads instead of strangers.",
+    "platform": "x",
+    "severity": "medium",
+    "title": "Mutuals boosted in posts and reply ranking"
+  },
+  {
+    "action": "Make your topic unmistakable in captions, visuals, and the first seconds so Facebook can match you to users who asked for that topic. Invite followers to tap Interested or add your topic in Your Algorithm, not just like the post.",
+    "date": "2026-10-13",
+    "impact": "Meta launched an AI-powered 'Your Algorithm' tool on Facebook on Oct 13. Users can add and manage topics in their own words via the three-dot menu and give Interested / Not interested feedback on posts, with LLMs interpreting that natural-language intent and recommendations updating in real time in the same session.",
+    "platform": "facebook",
+    "severity": "medium",
+    "title": "Facebook launches 'Your Algorithm' topic controls for Feed and Reels"
+  },
+  {
+    "action": "If your profile's featured person is AI-generated, turn on the AI-generated profile label in Edit profile and check Account Status. If you are a real creator who only uses AI tools, do not add the profile label.",
+    "date": "2026-08-31",
+    "impact": "Instagram renamed its AI creator label to 'AI-generated profile' and said profiles featuring an AI-generated person without the label can be removed from recommendations to non-followers in Reels and Explore. Profiles that add the label keep their reach, and using AI only to edit photos or write captions does not require it.",
+    "platform": "instagram",
+    "severity": "medium",
+    "title": "Undisclosed AI-generated profiles lose recommendation reach"
+  },
+  {
+    "action": "Post specific lived expertise with a clear point of view only you could write. Use AI to proofread, not to generate generic posts, and check Post Analytics for 'seems like AI slop' feedback.",
+    "date": "2026-10-08",
+    "impact": "LinkedIn's VP of Engineering said on Oct 8 that its AI-slop classifiers now cover all posts distributed beyond a poster's immediate network, at 94% precision, and views of content classified as AI slop were down 40% as of August 2026. Generic, repetitive, low-effort content gets its distribution limited, while AI assistance alone is not the target.",
+    "platform": "linkedin",
+    "severity": "medium",
+    "title": "AI slop classifiers expanded to all posts beyond your network"
+  },
+  {
+    "action": "Lead with Reels for discovery while this test runs. Keep making original Reels that hold watch time, and do not rely on feed posts or Stories as your first impression for new viewers.",
+    "basis": "observed",
+    "date": "2026-10-05",
+    "impact": "App researcher Radu Oncescu spotted a setting letting test users open Instagram directly to the Reels feed instead of the post feed, with Stories still on top and the traditional feed a swipe away. Social Media Today reported it Oct 5 and Meta confirmed to The Verge the test runs in a small number of countries; Reels already take over half of app time, so test users see short video first and feed posts and Stories later.",
+    "platform": "instagram",
+    "severity": "medium",
+    "title": "Test spotted: option to open Instagram straight into Reels"
+  },
+  {
+    "action": "Cross-post your best Reels to Facebook now so you are already in the video feed if this test widens. Film vertical, hook in the first seconds, and keep captions topic-clear.",
+    "basis": "observed",
+    "date": "2026-10-09",
+    "impact": "TechCrunch reporting covered by PetaPixel on Oct 9 says some Facebook users in India and Indonesia now land directly in a full-screen vertical video feed when they open the app, with the classic Feed kept as a second tab and an opt-out available. Meta confirmed the test to TechCrunch and said exploring a US version next year.",
+    "platform": "facebook",
+    "severity": "low",
+    "title": "Test spotted: Facebook opens into full-screen video for some users in India and Indonesia"
+  },
+  {
+    "action": "Make Shorts that answer one clear question cleanly, with the answer spoken and shown on screen, so a viewer asking about the Short gets a satisfying result. Keep titles and spoken words matching the actual topic.",
+    "basis": "official",
+    "date": "2026-10-12",
+    "impact": "YouTube announced Oct 12 via Creator Insider a limited global test putting Ask YouTube inside the Shorts player on select Shorts, English only and 18 plus, with a sparkle icon for suggested or free-form questions. The same test description mentions new mobile feeds to discover similar creators and related Shorts based on watch history, which adds a question-driven discovery path on top of the swipe feed.",
+    "platform": "youtube",
+    "severity": "low",
+    "title": "Test spotted: Ask YouTube inside the Shorts player, plus similar-creator feeds"
+  }
+]
