@@ -1,1 +1,86 @@
-{"platforms": {"facebook": {"buries": ["Content a viewer marks Not interested for its topic"], "last_change": "2026-10-13", "rewards": ["Content whose topic is unmistakable in the caption, visuals, and first seconds, matched to Your Algorithm topic settings", "Interested taps and topic adds from viewers, stronger than a plain like", "Reels: reach up about 40 percent and still underused by creators"]}, "instagram": {"buries": ["Reposted content and aggregator accounts, excluded from Explore and recommendations", "Watermarked or recycled video, including TikTok watermarks", "Topics a user opted out of in Your Algorithm, no matter how strong the engagement", "Unlabeled profiles featuring an AI-generated person, removed from recommendations to non-followers in Reels and Explore"], "last_change": "2026-09-24", "rewards": ["Watch time on Reels and posts", "Sends per reach: posts people DM to a friend beat likes for reaching non-followers", "Original content in every format, photos and carousels included", "Original audio and voiceovers over trending sounds", "A topic so clear a person can name it in 2 seconds, matched to Your Algorithm topic settings", "Small public creators tested with non-followers to gauge response, per Mosseri's Sept 24 principles", "Recency and engagement rate over total views or likes, per Mosseri's Sept 24 series"]}, "linkedin": {"buries": ["Text-only and link posts, far less distribution than native video", "Generic, repetitive AI slop, limited by classifiers once a post travels beyond your immediate network"], "last_change": "2026-10-08", "rewards": ["Native video, about 3x the reach of text posts, under 10 minutes, 16:9, MP4", "Specific lived expertise and a clear point of view"]}, "tiktok": {"buries": ["AI-generated video used as the main format", "Loose, unfocused clips while the retrained algorithm settles"], "last_change": "2026-06-24", "rewards": ["Completion rate, reportedly heading toward about 70 percent watched while the US algorithm retrains", "Native, human, niche video", "Search: custom keywords on videos and clear cover titles", "Native TikTok Shop shopping videos", "Longer storytelling up to 10 minutes, only when it holds attention to the end"]}, "x": {"buries": ["Posts timed when your audience is asleep, recency still feeds the Grok prediction"], "last_change": "2026-07-13", "rewards": ["Mutual followers: their posts and replies get boosted and surface first", "Engagement velocity in the first hour after posting", "Long-form video up to 4 hours for Premium"]}, "youtube": {"buries": ["Re-uploaded clips without meaningful additions, on top of monetization ineligibility", "Clickbait titles, throttled", "Template edits, borders, and voiceover descriptions passed off as original"], "last_change": "2026-10-01", "rewards": ["Original Shorts: real commentary or storytelling, not re-uploads", "Micro-niche depth, specialists over generalists in browse", "Shorts completion and slow swipe-away", "Titles and thumbnails the video actually delivers on, CTR and watch time judged together", "Shorts that funnel viewers into long-form"]}}, "updated": "2026-10-16"}
+{
+ "platforms": {
+  "facebook": {
+   "buries": [
+    "Content a viewer marks Not interested for its topic"
+   ],
+   "last_change": "2026-10-13",
+   "rewards": [
+    "Content whose topic is unmistakable in the caption, visuals, and first seconds, matched to Your Algorithm topic settings",
+    "Interested taps and topic adds from viewers, stronger than a plain like",
+    "Reels: reach up about 40 percent and still underused by creators"
+   ]
+  },
+  "instagram": {
+   "buries": [
+    "Reposted content and aggregator accounts, excluded from Explore and recommendations",
+    "Watermarked or recycled video, including TikTok watermarks",
+    "Topics a user opted out of in Your Algorithm, no matter how strong the engagement",
+    "Unlabeled profiles featuring an AI-generated person, removed from recommendations to non-followers in Reels and Explore"
+   ],
+   "last_change": "2026-09-24",
+   "rewards": [
+    "Watch time on Reels and posts",
+    "Sends per reach: posts people DM to a friend beat likes for reaching non-followers",
+    "Original content in every format, photos and carousels included",
+    "Original audio and voiceovers over trending sounds",
+    "A topic so clear a person can name it in 2 seconds, matched to Your Algorithm topic settings",
+    "Small public creators tested with non-followers to gauge response, per Mosseri's Sept 24 principles",
+    "Recency and engagement rate over total views or likes, per Mosseri's Sept 24 series"
+   ]
+  },
+  "linkedin": {
+   "buries": [
+    "Text-only and link posts, far less distribution than native video",
+    "Generic, repetitive AI slop, limited by classifiers once a post travels beyond your immediate network"
+   ],
+   "last_change": "2026-10-08",
+   "rewards": [
+    "Native video, about 3x the reach of text posts, under 10 minutes, 16:9, MP4",
+    "Specific lived expertise and a clear point of view"
+   ]
+  },
+  "tiktok": {
+   "buries": [
+    "AI-generated video used as the main format",
+    "Loose, unfocused clips while the retrained algorithm settles"
+   ],
+   "last_change": "2026-06-24",
+   "rewards": [
+    "Completion rate, reportedly heading toward about 70 percent watched while the US algorithm retrains",
+    "Native, human, niche video",
+    "Search: custom keywords on videos and clear cover titles",
+    "Native TikTok Shop shopping videos",
+    "Longer storytelling up to 10 minutes, only when it holds attention to the end"
+   ]
+  },
+  "x": {
+   "buries": [
+    "Posts timed when your audience is asleep, recency still feeds the Grok prediction"
+   ],
+   "last_change": "2026-07-13",
+   "rewards": [
+    "Mutual followers: their posts and replies get boosted and surface first",
+    "Engagement velocity in the first hour after posting",
+    "Long-form video up to 4 hours for Premium"
+   ]
+  },
+  "youtube": {
+   "buries": [
+    "Re-uploaded clips without meaningful additions, on top of monetization ineligibility",
+    "Clickbait titles, throttled",
+    "Template edits, borders, and voiceover descriptions passed off as original"
+   ],
+   "last_change": "2026-10-01",
+   "rewards": [
+    "Original Shorts: real commentary or storytelling, not re-uploads",
+    "Micro-niche depth, specialists over generalists in browse",
+    "Shorts completion and slow swipe-away",
+    "Titles and thumbnails the video actually delivers on, CTR and watch time judged together",
+    "Shorts that funnel viewers into long-form"
+   ]
+  }
+ },
+ "updated": "2026-10-16",
+ "last_checked": "2026-10-16"
+}
