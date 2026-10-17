@@ -194,5 +194,32 @@
   "action": "Do not panic-change your whole format on anecdotes alone. Check your own reach per post for Oct 15-16 against your last two weeks, and keep posting original content built for watch time and sends while this is watched another day.",
   "severity": "low",
   "basis": "observed"
+ },
+ {
+  "platform": "instagram",
+  "date": "2026-10-16",
+  "title": "Instagram reach drops reported again on Oct 16, second day running",
+  "impact": "Several independent creators posted Oct 16-17 reporting reach still down: Nanda Gita (@nandagita16, Threads, Oct 16) said Reels fell from a 200,000-600,000 average to around 60,000 and Story views fell too; Krystle Gohel (@doodlemoodart, Oct 16) posted an Insights graph showing a new post flat at near zero against her typical post climbing past 150 in 6 hours; Gleyson Assis (Oct 17 UTC / Oct 16 PT) said his dashboard showed 952.2K views in 30 days, down from September, with no violation or penalty; commenters on @ceritaibun___'s Oct 16 Threads post reported the same Story and Reel drops. This follows the Oct 15 reports already logged, so the drop is persisting a second day. No official Meta explanation was found in the window.",
+  "action": "Keep posting original content built for watch time and sends, and compare your Oct 15-17 reach per post against your own last two weeks before changing format. Check Account Status for any recommendation limit.",
+  "severity": "medium",
+  "basis": "observed"
+ },
+ {
+  "platform": "tiktok",
+  "date": "2026-10-16",
+  "title": "Creators report TikTok views stuck in double digits and low hundreds on Oct 16-17",
+  "impact": "Several independent creators posted Oct 16-17 reporting videos barely distributing: ogjestv (Facebook Reel, Oct 17 UTC / Oct 16 PT) said a video posted that morning had only 48 views despite over 800,000 followers and no rule break; Patty Jansen (Threads, Oct 16) reported consecutive zero-view videos; _kweenwen (Threads, Oct 16) and ilasebenarnya_ (Threads, Oct 17 PT) reported unusually bad views over the past two days; Alya Shae (Threads, Oct 17 PT) said posts after returning from a break are sitting at 100-200 views. A separate Oct 16 explainer from Heymikeyanda said TikTok no longer automatically gives about 200 views to new or inactive accounts. No official TikTok explanation was found in the window.",
+  "action": "Do not delete and repost in a panic. Keep posting original niche videos on a steady cadence, watch whether views arrive late over 24-72 hours, and compare against your own baseline before assuming a penalty.",
+  "severity": "medium",
+  "basis": "observed"
+ },
+ {
+  "platform": "facebook",
+  "date": "2026-10-16",
+  "title": "Creator reports Facebook reach down, dashboard views -19% (spotted)",
+  "impact": "One named creator, Kundan Kewat (Kundan RP Vlogs, Instagram Reel posted Oct 16 PT), showed his Facebook dashboard at 184,592 views, down 19%, with engagement down 24%, and said reach has declined for many creators since around Oct 7, affecting earnings despite using content monetization. This is a single source in the window, so it is spotted, not confirmed.",
+  "action": "Check your own Facebook dashboard for the last 7-14 days before acting. If your views are down similar amounts, keep posting original Reels and watch for a second day of reports.",
+  "severity": "low",
+  "basis": "observed"
  }
 ]
