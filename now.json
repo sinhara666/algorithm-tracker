@@ -16,9 +16,10 @@
     "Reposted content and aggregator accounts, excluded from Explore and recommendations",
     "Watermarked or recycled video, including TikTok watermarks",
     "Topics a user opted out of in Your Algorithm, no matter how strong the engagement",
-    "Unlabeled profiles featuring an AI-generated person, removed from recommendations to non-followers in Reels and Explore"
+    "Unlabeled profiles featuring an AI-generated person, removed from recommendations to non-followers in Reels and Explore",
+    "Posts and Reels reaching far fewer followers than typical, per creator reports Oct 15-16 with no official Meta explanation found"
    ],
-   "last_change": "2026-09-24",
+   "last_change": "2026-10-16",
    "rewards": [
     "Watch time on Reels and posts",
     "Sends per reach: posts people DM to a friend beat likes for reaching non-followers",
@@ -43,9 +44,10 @@
   "tiktok": {
    "buries": [
     "AI-generated video used as the main format",
-    "Loose, unfocused clips while the retrained algorithm settles"
+    "Loose, unfocused clips while the retrained algorithm settles",
+    "Videos stuck at double-digit to low-hundred view counts in Oct 16-17 creator reports, including large accounts and accounts returning from a break"
    ],
-   "last_change": "2026-06-24",
+   "last_change": "2026-10-16",
    "rewards": [
     "Completion rate, reportedly heading toward about 70 percent watched while the US algorithm retrains",
     "Native, human, niche video",
@@ -81,6 +83,6 @@
    ]
   }
  },
- "updated": "2026-10-16",
- "last_checked": "2026-10-16"
+ "updated": "2026-10-17",
+ "last_checked": "2026-10-17"
 }
